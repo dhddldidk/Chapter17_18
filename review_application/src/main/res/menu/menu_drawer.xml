@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_drawer_tab1"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="Tab1" />
+
+    <item
+        android:id="@+id/menu_drawer_tab2"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Tab2" />
+
+    <item
+        android:id="@+id/menu_drawer_tab3"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Tab3" />
+
+</menu>
